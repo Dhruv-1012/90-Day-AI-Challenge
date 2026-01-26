@@ -55,11 +55,11 @@
 
 # LECTURE 3
 
-s = 'dhruv'
+# s = 'dhruv'
 # print("",type(s))
-s1 = "hello world"
+# s1 = "hello world"
 # print("",type(s1))
-len(s)      # len is a function that tell you the length of the string and it count the characters as well as space like dhru v there are 6 characters including space 
+# len(s)      # len is a function that tell you the length of the string and it count the characters as well as space like dhru v there are 6 characters including space 
 # print("",len(s))
 # print("",len(s1))
 
@@ -72,12 +72,14 @@ len(s)      # len is a function that tell you the length of the string and it co
 # print("",s1.count('q')) 
 
 # print("",s1.upper())        # it just convert the whole string in upper case and it did not change the main data it is not permanent
-s3 ='heLLoDhRuv'
+# s3 ='heLLoDhRuv'
 # print("",s3.upper())
 # print("",s3.lower())        # it just conver  the whole string in lower case and it did not change the main data it is not permanent
 # s3 = s3.lower()
 # print("",s3)   #and now it is permanent
-print("",s3.swapcase())   # it just swap the character of the string in lower to upper upper to lower 
-print("",s3.title())        # it will make first latter of each and every string capital or in upper case
-print("",s1.title())
-print("",s1.capitalize())
+# print("",s3.swapcase())   # it just swap the character of the string in lower to upper upper to lower 
+# print("",s3.title())        # it will make first latter of each and every string capital or in upper case
+# print("",s1.title())
+# print("",s1.capitalize())       # it just make first letter capital or in upper case not every string 
+
+# LECTURE 3 END
